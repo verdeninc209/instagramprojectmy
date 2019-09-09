@@ -1,0 +1,44 @@
+body{
+    background: linear-gradient(to left, #586e91, #58917f);
+}
+
+.bd-example-row .row>.col, .bd-example-row .row>[class^=col-] {
+padding-top: .75rem;
+padding-bottom: .75rem;
+background: linear-gradient( to left, green, #77af36);
+border: 1px solid rgb(211, 156, 201);
+color: white;
+}
+ footer{
+     font-size: 25px;
+     border: 1px solid #000;
+ } 
+
+ ._6q-tv{
+     border-radius: 100%;
+ }
+
+#photo{
+   border: 1px solid #000;
+}
+
+._81NM2{
+   text-decoration: none;
+   color: black;
+   font-size: 20px;
+}
+
+.col{
+   text-align: center;
+   font-size: 30px;
+   border-radius: 30px;
+}
+.col:hover {
+   background: #75c948;
+}
+
+.btns {
+ border-radius: 100px;
+ background: linear-gradient(to right, #5e842f, #ad3495);
+ width: 200px;
+}
